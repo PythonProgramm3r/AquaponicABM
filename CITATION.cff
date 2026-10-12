@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this simulation model in your research, please cite it using the metadata below."
+title: "NetLogo Aquaponic Simulation (FishyGreensOS)"
+version: 1.1.0
+date-released: 2026-10-07
+url: "https://www.comses.net/codebases/07a359f3-2a04-4982-afb4-b26587274423/releases/1.1.0/"
+repository-code: "https://github.com/PythonProgramm3r/AquaponicABM"
+license: GPL-3.0
+authors:
+  - family-names: "Kaliney"
+    given-names: "Derrick"
+references:
+  - type: data
+    title: "Loyola Global Aquatic Excrement Dataset"
+    url: "https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.1792"
